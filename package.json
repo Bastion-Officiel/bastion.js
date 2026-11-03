@@ -1,0 +1,22 @@
+{
+  "name": "@bastion-hub/bastion.js",
+  "version": "1.0.2",
+  "description": "SDK & Bibliothèque officielle BASTION pour connecter des bots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bastion",
+    "bot",
+    "sdk",
+    "gateway",
+    "hub"
+  ],
+  "author": "BASTION",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.18.0",
+    "axios": "^1.8.4"
+  }
+}
